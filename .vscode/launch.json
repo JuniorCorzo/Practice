@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LSC",
+            "request": "launch",
+            "mainClass": "CodeWars.LSC",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphaNum",
+            "request": "launch",
+            "mainClass": "CodeWars.AlphaNum",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertSort",
+            "request": "launch",
+            "mainClass": "InsertSort",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentesis",
+            "request": "launch",
+            "mainClass": "CodeWars.ValidParentesis",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DayThird",
+            "request": "launch",
+            "mainClass": "AOC.DayThird",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch DigitalRoot",
+            "request": "launch",
+            "mainClass": "CodeWars.DigitalRoot",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpandNumbers",
+            "request": "launch",
+            "mainClass": "CodeWars.ExpandNumbers",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMissingLetter",
+            "request": "launch",
+            "mainClass": "CodeWars.FindMissingLetter",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterMIddle",
+            "request": "launch",
+            "mainClass": "CodeWars.LetterMIddle",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListFitering",
+            "request": "launch",
+            "mainClass": "CodeWars.ListFitering",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiples",
+            "request": "launch",
+            "mainClass": "CodeWars.Multiples",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PanagramDetect",
+            "request": "launch",
+            "mainClass": "CodeWars.PanagramDetect",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerimeterSquare",
+            "request": "launch",
+            "mainClass": "CodeWars.PerimeterSquare",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PyLatin",
+            "request": "launch",
+            "mainClass": "CodeWars.PyLatin",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scramblies",
+            "request": "launch",
+            "mainClass": "CodeWars.Scramblies",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShortestWord",
+            "request": "launch",
+            "mainClass": "CodeWars.ShortestWord",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareEveryDigit",
+            "request": "launch",
+            "mainClass": "CodeWars.SquareEveryDigit",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareNumber",
+            "request": "launch",
+            "mainClass": "CodeWars.SquareNumber",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "LeetCode.BinarySearch",
+            "projectName": "Practice_d2ad3ad0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "LeetCode.TwoSum",
+            "projectName": "Practice_d2ad3ad0"
+        }
+    ]
+}

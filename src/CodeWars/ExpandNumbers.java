@@ -14,8 +14,9 @@ public class ExpandNumbers {
 
         return result.substring(0, result.length()-3);
     }
-
+	
     public static void main(String[] args) {
         System.out.println(expandNumbers(12));
+	
     }
 }
