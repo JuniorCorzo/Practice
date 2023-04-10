@@ -147,6 +147,7 @@ public class DayThird {
                     stringListBinary.add(input);
                     input = fileRead.readLine();
                 }
+                fileRead.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }

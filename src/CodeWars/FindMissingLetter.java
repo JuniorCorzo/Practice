@@ -1,6 +1,5 @@
 package CodeWars;
 
-import java.util.Arrays;
 
 public class FindMissingLetter {
 
